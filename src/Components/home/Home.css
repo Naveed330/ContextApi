@@ -1,0 +1,28 @@
+.Edit_link_class{
+    background-color: yellowgreen;
+    width: 100px;
+    padding: 10px;
+    /* border-radius: 10px; */
+    color: white;
+    text-decoration: none;
+}
+.Edit_link_class:hover{
+    color: white;
+}
+.Delete_link_class{
+    background-color: red;
+    padding: 7px;
+    width: 60px;
+    /* border-radius: 10px; */
+    text-decoration: none;
+    margin-left: 10px;
+    color: white;
+    border: none;
+}
+.main_row_class {
+    display: flex;
+    justify-content: center;
+}
+.table_class_main{
+    border: 1px solid gray;
+}
