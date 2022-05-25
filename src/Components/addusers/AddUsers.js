@@ -38,10 +38,10 @@ const AddUsers = () => {
           <div className="col-md-6 col-sm-12">
             <div>
               <Link onClick={ClickAddHandler} className="Link_submit" to="/">
-                Submit
+                 <button> Submit</button>
               </Link>
               <Link className="Link_Cancel" to="/">
-                Cancel
+               <button>Cancel</button> 
               </Link>
             </div>
           </div>

@@ -1,23 +1,24 @@
-.main_navbar_class{
-    padding: 15px;
+.main_navbar_class {
+  padding: 15px;
 }
-.Navbar_link_class{
-    background-color: black;
-    width: 120px;
-    padding: 10px;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    border: 1px solid gray;
-    border-radius: 10px;
-  
-
+.Navbar_link_class {
+  background-color: black;
+  width: 120px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border: 1px solid gray;
+  border-radius: 10px;
 }
-.Navbar_link_class:hover{
-    color: black;
-  background-color: white
+.Navbar_link_class:hover {
+  color: black;
+  background-color: white;
 }
-.nav_text{
-    color: white;
+.nav_text {
+  color: white;
+  text-decoration: none;
+}
+a{
     text-decoration: none;
 }
